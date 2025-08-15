@@ -1,0 +1,27 @@
+/* navbar.css */
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+}
+
+.ant-layout-sider {
+  background: #2e4053 !important;
+}
+
+.ant-layout-header {
+  background: #34495e !important;
+}
+
+.ant-menu-dark.ant-menu-inline .ant-menu-item-selected {
+  background-color: #5dade2 !important;
+  color: #fff !important;
+}
+
+.ant-menu-dark .ant-menu-item {
+  color: #d6eaf8 !important;
+}
+
+.ant-menu-dark .ant-menu-item:hover {
+  background-color: #2874a6 !important;
+  color: #fff !important;
+}
